@@ -1,0 +1,1 @@
+DROP DATABASE ex_superstore_normalize;
